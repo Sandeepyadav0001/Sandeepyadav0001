@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0ea5e9,100:7dd3fc&height=200&section=header&text=Sandeep%20Yadav&fontSize=48&fontColor=f8fafc&desc=Full%20Stack%20Developer&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0EA5E9,100:7DD3FC&height=220&section=header&text=Sandeep%20Yadav&fontSize=46&fontColor=F8FAFC&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-</div>
+<sub>Building digital experiences with code & AI.</sub>
 
-<div align="center">
+<br/><br/>
 
-# 👋 Hi, I'm Sandeep Yadav
-
-### Full Stack Developer
-
-<em>I build modern web applications and explore AI-powered solutions to turn ideas into useful real-world products.</em>
+**Full Stack Developer focused on building modern web applications and exploring AI-powered products.**
 
 <br/>
 
-[![Repositories](https://img.shields.io/badge/View-Repositories-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=07111f)](https://github.com/Sandeepyadav0001?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=07111f)](https://www.linkedin.com/in/sandeep-yadav-a25a03299/)
-[![Email](https://img.shields.io/badge/Email-Contact-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=07111f)](mailto:sy117658@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=7DD3FC)](https://github.com/Sandeepyadav0001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=7DD3FC)](https://www.linkedin.com/in/sandeep-yadav-a25a03299/)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7DD3FC)](mailto:sy117658@gmail.com)
 
 </div>
 
@@ -24,64 +20,59 @@
 
 <table width="100%" border="0">
 <tr>
-<td width="30%" valign="top">
+<td width="28%" valign="top">
 
-### 👨‍💻 Sandeep Yadav
-**Full Stack Developer**
+<h3 align="center">Sandeep Yadav</h3>
+<p align="center"><sub>Full Stack Developer</sub></p>
+<p align="center"><sub><code>@Sandeepyadav0001</code></sub></p>
 
-Building modern, AI-aware web apps with clean engineering.
+<hr style="border: none; border-top: 1px solid rgba(148,163,184,0.15);">
 
----
+<sub>
 
-### ⚡ Quick Links
-- [Overview](#-about-me)
-- [Tech Stack](#️-tech-stack)
-- [Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Connect](#-lets-connect)
+**Focus Areas**
+- 🌐 Web Development
+- 🤖 AI Integration
+- 🧩 Problem Solving
+- 📚 Continuous Learning
 
----
-
-### 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/sandeep-yadav-a25a03299/)
-- [Email](mailto:sy117658@gmail.com)
-- [GitHub](https://github.com/Sandeepyadav0001)
-
----
-
-> Build → Learn → Improve → Repeat.
+</sub>
 
 </td>
-<td width="70%" valign="top">
+<td width="72%" valign="top">
 
-## 👨‍💻 About Me
+### About Me
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🌐 Web Development**
-Building modern full-stack web applications.
+**01 — Full Stack Development**
+<br/>
+<sub>Building modern web applications.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 AI Integration**
-Exploring AI-powered features and applications.
+**02 — AI Integration**
+<br/>
+<sub>Exploring AI-powered products.</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧩 Problem Solving**
-Turning ideas and requirements into practical solutions.
+**03 — Problem Solving**
+<br/>
+<sub>Turning ideas into useful software.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**📚 Continuous Learning**
-Constantly improving development and software engineering skills.
+**04 — Continuous Learning**
+<br/>
+<sub>Improving development and engineering skills.</sub>
 
 </td>
 </tr>
@@ -93,36 +84,62 @@ Constantly improving development and software engineering skills.
 
 <br/>
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-**Languages**
+<table width="100%">
+<tr>
+<td valign="top">
+
+**Core**
 <br/>
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" />
 
+</td>
+<td valign="top">
+
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Databases**
+</td>
+<td valign="top">
+
+**Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-**Tools & Development**
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-**AI / ML**
+</td>
+<td valign="top">
+
+**AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=py" /> <br/>
-<sub>Python · AI/ML exploration</sub>
+<img src="https://skillicons.dev/icons?i=py" /> &nbsp; <sub>AI / ML</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
@@ -131,37 +148,29 @@ Constantly improving development and software engineering skills.
 ### 🥗 Nutriday
 **AI-Based Wellness Platform**
 
-An AI-powered wellness platform focused on creating a personalized and technology-driven wellness experience.
+<sub>An AI-powered wellness platform focused on delivering a personalized and technology-driven wellness experience.</sub>
 
-**Focus**
 - AI-powered functionality
-- Modern web experience
-- Personalized wellness experience
-- User-focused interface
+- Personalized experience
+- Modern web interface
+- Wellness-focused solution
 
-**Stack**
 `React` `Node.js` `MySQL` `AI/ML`
-
-[![View Code](https://img.shields.io/badge/View-Code-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=07111f)](ADD-YOUR-REPO-LINK-HERE)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Intellibizz
-**Business Analysis Website**
+**Business Analysis Platform**
 
-A business analysis platform designed to present business insights and information through a structured, modern interface.
+<sub>A modern business analysis website designed to present business insights through a structured and intuitive interface.</sub>
 
-**Focus**
 - Business analysis
 - Data presentation
-- Modern web interface
+- Modern UI
 - Full-stack functionality
 
-**Stack**
 `Next.js` `Node.js` `MySQL`
-
-<sub>🔒 Repository link not yet available</sub>
 
 </td>
 </tr>
@@ -169,73 +178,45 @@ A business analysis platform designed to present business insights and informati
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandeepyadav0001&show_icons=true&hide_border=true&bg_color=00000000&title_color=7dd3fc&icon_color=0ea5e9&text_color=cbd5e1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepyadav0001&layout=compact&hide_border=true&bg_color=00000000&title_color=7dd3fc&text_color=cbd5e1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandeepyadav0001&show_icons=true&hide_border=true&bg_color=00000000&title_color=7DD3FC&icon_color=38BDF8&text_color=94A3B8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepyadav0001&layout=compact&hide_border=true&bg_color=00000000&title_color=7DD3FC&text_color=94A3B8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Sandeepyadav0001&theme=transparent&hide_border=true&ring=7DD3FC&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=94A3B8&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
 
 </div>
 
 <br/>
 
-## 🔥 GitHub Streak
+## Development Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Sandeepyadav0001&theme=transparent&hide_border=true&ring=7dd3fc&fire=0ea5e9&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepyadav0001&bg_color=00000000&color=7DD3FC&line=38BDF8&point=F8FAFC&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 <br/>
 
-## 📈 GitHub Activity
+## Let's Build Something
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepyadav0001&bg_color=00000000&color=7dd3fc&line=0ea5e9&point=f8fafc&area=true&hide_border=true" />
+<sub>I'm always open to interesting projects, collaborations and tech conversations.</sub>
 
-</div>
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=7DD3FC)](https://github.com/Sandeepyadav0001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=7DD3FC)](https://www.linkedin.com/in/sandeep-yadav-a25a03299/)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7DD3FC)](mailto:sy117658@gmail.com)
 
 <br/>
 
-## 🎯 What I'm Building Toward
+<sub>Built with ❤️ and lots of ☕</sub>
 
-<div align="center">
-
-**Full Stack Development**
-**+**
-**AI-powered applications**
-**+**
-**Real-world problem solving**
-
-⬇️
-
-**Better products • Better engineering • Continuous growth**
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to interesting projects, collaborations, and tech conversations.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=07111f)](https://www.linkedin.com/in/sandeep-yadav-a25a03299/)
-[![Email](https://img.shields.io/badge/Email-Contact-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=07111f)](mailto:sy117658@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=07111f)](https://github.com/Sandeepyadav0001)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:0ea5e9,100:07111f&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD
