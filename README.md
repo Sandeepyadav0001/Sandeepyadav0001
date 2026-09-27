@@ -1,265 +1,241 @@
-<!-- =========================================================
-     Sandeep Yadav — GitHub Profile README
-     ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Sandeep%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&color=0:07111f,50:0ea5e9,100:7dd3fc" width="100%" alt="Sandeep Yadav header"/>
-
-<p>
-  <a href="https://github.com/Sandeepyadav0001">
-    <img src="https://img.shields.io/badge/GitHub-Sandeepyadav0001-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sandeep-yadav-a25a03299/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sy117658@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0ea5e9,100:7dd3fc&height=200&section=header&text=Sandeep%20Yadav&fontSize=48&fontColor=f8fafc&desc=Full%20Stack%20Developer&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
-<table>
+<div align="center">
+
+# 👋 Hi, I'm Sandeep Yadav
+
+### Full Stack Developer
+
+<em>I build modern web applications and explore AI-powered solutions to turn ideas into useful real-world products.</em>
+
+<br/>
+
+[![Repositories](https://img.shields.io/badge/View-Repositories-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=07111f)](https://github.com/Sandeepyadav0001?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=07111f)](https://www.linkedin.com/in/sandeep-yadav-a25a03299/)
+[![Email](https://img.shields.io/badge/Email-Contact-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=07111f)](mailto:sy117658@gmail.com)
+
+</div>
+
+<br/>
+
+<table width="100%" border="0">
 <tr>
-<td width="32%" valign="top">
+<td width="30%" valign="top">
 
-👨‍💻 Sandeep Yadav
+### 👨‍💻 Sandeep Yadav
+**Full Stack Developer**
 
-Full Stack Developer
+Building modern, AI-aware web apps with clean engineering.
 
-Building modern web applications and exploring AI-powered solutions.
+---
 
-⚡ Quick Links
+### ⚡ Quick Links
+- [Overview](#-about-me)
+- [Tech Stack](#️-tech-stack)
+- [Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Connect](#-lets-connect)
 
-🏠 Overview
+---
 
-🛠️ Tech Stack
+### 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/sandeep-yadav-a25a03299/)
+- [Email](mailto:sy117658@gmail.com)
+- [GitHub](https://github.com/Sandeepyadav0001)
 
-🚀 Projects
+---
 
-📊 GitHub Stats
-
-🤝 Connect
-
-🌐 Connect
-
-LinkedIn
-linkedin.com/in/sandeep-yadav-a25a03299
-
-Email
-sy117658@gmail.com
-
-GitHub
-@Sandeepyadav0001
-
-<br>
-
-Build → Learn → Improve → Repeat.
+> Build → Learn → Improve → Repeat.
 
 </td>
+<td width="70%" valign="top">
 
-<td width="68%" valign="top">
+## 👨‍💻 About Me
 
-👋 Hi, I'm Sandeep Yadav
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-Full Stack Developer • Web Development • AI-Powered Products
+**🌐 Web Development**
+Building modern full-stack web applications.
 
-I build modern, responsive web applications with a focus on practical problem-solving, clean interfaces, and useful product experiences.
+</td>
+<td width="50%" valign="top">
 
-I'm particularly interested in combining full-stack development with AI to turn ideas into real-world applications.
+**🤖 AI Integration**
+Exploring AI-powered features and applications.
 
-🟢 Open to Opportunities
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-I'm interested in connecting with developers, recruiters, and teams working on interesting products.
+**🧩 Problem Solving**
+Turning ideas and requirements into practical solutions.
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-
-
-
+**📚 Continuous Learning**
+Constantly improving development and software engineering skills.
 
 </td>
 </tr>
 </table>
 
-👨‍💻 About Me
-
-<table>
-<tr>
-<td>🌐</td>
-<td><b>Web Development</b><br>Building modern full-stack web applications.</td>
-<td>🤖</td>
-<td><b>AI Integration</b><br>Exploring AI-powered features and products.</td>
-</tr>
-<tr>
-<td>🧩</td>
-<td><b>Problem Solving</b><br>Turning ideas and requirements into practical solutions.</td>
-<td>📚</td>
-<td><b>Continuous Learning</b><br>Improving my development and software engineering skills.</td>
+</td>
 </tr>
 </table>
 
-🛠️ Tech Stack
+<br/>
 
-Languages
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp" alt="Languages"/>
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" />
 
-Frontend
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend"/>
-</p>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-Backend
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
-</p>
+**Tools & Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-Databases
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=py" /> <br/>
+<sub>Python · AI/ML exploration</sub>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
-</p>
+<br/>
 
-Tools & Development
+## 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
-</p>
-
-🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-🥗 Nutriday
+### 🥗 Nutriday
+**AI-Based Wellness Platform**
 
-AI-Based Wellness Platform
+An AI-powered wellness platform focused on creating a personalized and technology-driven wellness experience.
 
-An AI-powered wellness platform focused on creating a more personalized and technology-driven wellness experience.
+**Focus**
+- AI-powered functionality
+- Modern web experience
+- Personalized wellness experience
+- User-focused interface
 
-Focus
+**Stack**
+`React` `Node.js` `MySQL` `AI/ML`
 
-🤖 AI-powered functionality
-
-🌐 Modern web experience
-
-🧠 Personalized wellness experience
-
-📱 User-focused interface
-
-Stack
-React Node.js MySQL AI/ML
-
-<br>
-
-
+[![View Code](https://img.shields.io/badge/View-Code-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=07111f)](ADD-YOUR-REPO-LINK-HERE)
 
 </td>
-
 <td width="50%" valign="top">
 
-📊 Intellibizz
-
-Business Analysis Website
+### 📊 Intellibizz
+**Business Analysis Website**
 
 A business analysis platform designed to present business insights and information through a structured, modern interface.
 
-Focus
+**Focus**
+- Business analysis
+- Data presentation
+- Modern web interface
+- Full-stack functionality
 
-📈 Business analysis
+**Stack**
+`Next.js` `Node.js` `MySQL`
 
-📊 Data presentation
-
-💻 Modern web interface
-
-🧩 Full-stack functionality
-
-Stack
-Next.js Node.js MySQL
-
-<br>
-
-
+<sub>🔒 Repository link not yet available</sub>
 
 </td>
 </tr>
 </table>
 
-📊 GitHub Stats
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/Sandeepyadav0001">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sandeepyadav0001&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1" alt="Sandeep's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Sandeepyadav0001">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepyadav0001&layout=compact&hide_border=true&theme=transparent&title_color=7dd3fc&text_color=cbd5e1" alt="Top Languages"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandeepyadav0001&show_icons=true&hide_border=true&bg_color=00000000&title_color=7dd3fc&icon_color=0ea5e9&text_color=cbd5e1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepyadav0001&layout=compact&hide_border=true&bg_color=00000000&title_color=7dd3fc&text_color=cbd5e1" />
 
 </div>
 
-<br>
+<br/>
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=Sandeepyadav0001&theme=transparent&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub Streak"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=Sandeepyadav0001&theme=transparent&hide_border=true&ring=7dd3fc&fire=0ea5e9&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc" />
 
 </div>
 
-📈 GitHub Activity
+<br/>
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepyadav0001&bg_color=00000000&color=7dd3fc&line=0ea5e9&point=f8fafc&area=true&hide_border=true" />
 
 </div>
 
-🎯 What I'm Building Toward
+<br/>
 
-Full Stack Development
-        +
-AI-powered applications
-        +
-Real-world problem solving
-        ↓
-Better products • Better engineering • Continuous growth
+## 🎯 What I'm Building Toward
 
-🤝 Let's Connect
+<div align="center">
+
+**Full Stack Development**
+**+**
+**AI-powered applications**
+**+**
+**Real-world problem solving**
+
+⬇️
+
+**Better products • Better engineering • Continuous growth**
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 I'm always open to interesting projects, collaborations, and tech conversations.
 
-<a href="https://www.linkedin.com/in/sandeep-yadav-a25a03299/">
-<img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:sy117658@gmail.com">
-<img src="https://img.shields.io/badge/Email-sy117658%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/Sandeepyadav0001">
-<img src="https://img.shields.io/badge/GitHub-Sandeepyadav0001-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br><br>
-
-⭐ Thanks for visiting my profile!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=07111f)](https://www.linkedin.com/in/sandeep-yadav-a25a03299/)
+[![Email](https://img.shields.io/badge/Email-Contact-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=07111f)](mailto:sy117658@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=07111f)](https://github.com/Sandeepyadav0001)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:07111f,50:0ea5e9,100:7dd3fc" width="100%" alt="Footer"/>
+⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:0ea5e9,100:07111f&height=120&section=footer" width="100%"/>
 
 </div>
