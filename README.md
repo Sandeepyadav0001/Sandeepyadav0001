@@ -218,4 +218,6 @@
 <br/>
 
 <sub>Built with ❤️ and lots of ☕</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD
+>
 
